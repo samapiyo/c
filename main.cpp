@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-  double balance = 1000.0;
+  double balance = 100000.0;
   int choice;
   double amount;
 
@@ -73,4 +73,5 @@ int main()
   } while (choice != 4);
 
   return 0;
+
 }
